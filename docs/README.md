@@ -48,3 +48,4 @@ This means your project is compatible with licensee 1.0 up until 2.0. You can al
 spec.add_dependency 'licensee', '~> 1.1'
 ```
 
+
